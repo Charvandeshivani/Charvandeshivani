@@ -23,6 +23,18 @@
 - 🤝 Open to internships, collaborations, and learning opportunities
 - 📫 Reach me at
     **shivanicharvande@gmail.com**
+
+
+## 💬 Ask Me About
+
+- 📊 Data Analytics
+- 🐍 Python
+- 🗃️ SQL
+- 📈 Power BI
+- 📉 Tableau
+- 📋 Data Visualization
+
+## 💻 Languages and Tools
   
 
 ---
