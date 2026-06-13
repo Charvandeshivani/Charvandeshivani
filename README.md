@@ -2,12 +2,12 @@
 
 <h3 align="center">B.Tech IT Student | Data Analytics & AI Enthusiast</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shivanicharvande&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;AI+%26+Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;AI+%26+Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -15,9 +15,9 @@
 ## 👩‍💻 About Me
 
 - 🎓 Pursuing **B.Tech in Information Technology**
-- 📊 Passionate about **Data Analytics, AI & Machine Learning**
+- 📊 Passionate about **Data Analytics, Artificial Intelligence & Machine Learning**
 - 🌱 Currently learning **Python, SQL, Power BI & Tableau**
-- 💡 Interested in solving real-world problems using data
+- 💡 Interested in solving real-world problems using data-driven approaches
 - ⭐ **5★ HackerRank** in **SQL & Python**
 - 🤝 Open to internships, collaborations, and learning opportunities
 - 📫 Reach me at **your-email@example.com**
@@ -49,21 +49,14 @@
 ## 💻 Languages and Tools
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-
-<img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="45" height="45"/>
-
-<img src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="45" height="45"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="45" height="45"/>
 </p>
 
 ---
@@ -88,21 +81,21 @@
 
 ---
 
-## 🚀 Featured Skills
+## 🚀 Skills
 
 ```text
 Python • SQL • Power BI • Tableau • Java • C • Git • GitHub
-Data Analytics • Artificial Intelligence • Problem Solving
+Data Analytics • Artificial Intelligence • Machine Learning
 ```
 
 ---
 
-## ✨ Fun Fact
+## ✨ Quote
 
-> "Turning data into insights and ideas into impact."
+> "Transforming data into insights and ideas into impact."
 
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Shivani Charvande</a>
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
