@@ -2,8 +2,8 @@
 
 <h3 align="center">B.Tech IT Student | Data Analytics & AI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shivanicharvande&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
