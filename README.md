@@ -20,8 +20,8 @@
 - 💡 Interested in solving real-world problems using data-driven approaches
 - ⭐ **5★ HackerRank** in **SQL & Python**
 - 🤝 Open to internships, collaborations, and learning opportunities
-- 📫 Reach me at **1. shivanicharvande@gmail.com
-- 2. shivani.charvande_24uit@sanjivanicoe.org.in**
+- 📫 Reach me at ** personal :shivanicharvande@gmail.com
+-  Professional : shivani.charvande_24uit@sanjivanicoe.org.in**
   
 
 ---
@@ -77,10 +77,11 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Charvandeshivani&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 ---
 
 ## 🚀 Skills
