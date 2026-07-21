@@ -32,11 +32,7 @@
 - 🗃️ SQL
 - 📈 Power BI
 - 📋 Data Visualization
-
-## 💻 Languages and Tools
   
-
----
 
 ## 🌐 Connect with Me
 
